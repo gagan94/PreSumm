@@ -4,8 +4,8 @@ Inorder to run the validation of the model on custom dataset, the data has to be
 A colab file for PreProcessing is also present in the colab notebooks folder. Minimal Documentation is present in the colab files to run the entire model.
 This folder contains the code for Validation only.Training can also be done in a similar way.
 
-Also refer to the instruction present in the Readme of Colab Notebooks
-
+Also refer to the instruction present in the Readme of Colab Notebooks folder.
+ 
 
 # PreSumm
 
